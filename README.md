@@ -12,7 +12,7 @@ Green's function construction based on several methods will be uploaded soon.
 
 ## Usage
 
-The spectral analysis results and synthetic Green's functions can be downloaded from: https://doi.org/10.5281/zenodo.10408845
+The spectral analysis results and synthetic Green's functions can be downloaded from: [https://doi.org/10.5281/zenodo.10408845](https://doi.org/10.5281/zenodo.10637559)
 
 Code blocks in `main.ipynb` include comments describing which figures to reproduce. For details of our analysis, please check the source codes under `my_func/`.
 
